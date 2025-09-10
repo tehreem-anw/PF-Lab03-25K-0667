@@ -1,7 +1,7 @@
 # PF-Lab03-25K-0667
-## **My name is _Tehreem_**
 ## About Me
-I’m currently studying BS Computer Science student at _FAST-NU._ My interests are:
+My name is _Tehreem._ 
+I’m currently studying **BS Computer Science** student at _FAST-NU._ My interests are:
 - programming
 - exploring new technologies
 
